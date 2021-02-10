@@ -11,4 +11,4 @@
 ### Objectives:
 
 ## Part 2 - VacationPy
-### Now I want to use my skills in working with weather data to plan future vacations. I used jupyter-gmaps and the Google Places API.
+### Now I want to use my skills in working with weather data to plan future vacations. I used jupyter-gmaps and the Google Places API  to search for hotels within 5000 meters and plot markers on a heatmap.
