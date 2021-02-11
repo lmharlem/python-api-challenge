@@ -1,7 +1,7 @@
 ![](Images/equatorsign.png)
 # What is the Weather Like? :snake:
 
-#### This Python script visualize the weather of 500+ cities around the world of varying distance from the equator. 
+#### This Python script visualizes the weather of 500+ cities around the world of varying distances from the equator. 
 
 ## Part 1 - WeatherPy
 #### Utilizing simple Python library and OpenWeatherMap API, I created a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. 
