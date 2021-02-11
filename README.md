@@ -1,5 +1,5 @@
 ![](Images/equatorsign.png)
-# What is the Weather Like?
+# What is the Weather Like? :snake:
 
 #### This Python script visualize the weather of 500+ cities around the world of varying distance from the equator. 
 
