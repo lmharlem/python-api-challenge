@@ -4,7 +4,7 @@
 #### This Python script visualizes the weather of 500+ cities around the world of varying distances from the equator. 
 
 ## Part 1 - WeatherPy
-#### Ihis script creates a series of scatter plots to showcase the following relationships:
+#### This script creates a series of scatter plots to showcase the following relationships:
  - Temperature (F) vs. Latitude
  - Humidity (%) vs. Latitude
  - Cloudiness (%) vs. Latitude
@@ -22,7 +22,7 @@ Next linear regression is performed on each relationship, separating the plots i
  - Southern Hemisphere - Wind Speed (mph) vs. Latitude
 
 ## Part 2 - VacationPy
-### Next I will utilize my skills in working with weather data to plan future vacations using jupyter-gmaps and the Google Places API to search for hotels within 5000 meters and plot markers on a heatmap by doing the following:
+#### This script involves working with weather data to plan future vacations using jupyter-gmaps and the Google Places API to search for hotels within 5000 meters and plot markers on a heatmap by doing the following:
  - Create a heat map that displays the humidity for every city from Part I
  - Narrow down the DataFrame to find your ideal weather condition
     - A max temperature lower than 80 degrees but higher than 70.
