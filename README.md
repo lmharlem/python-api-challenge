@@ -29,9 +29,7 @@ The second requirement is to run linear regression on each relationship. This ti
 After each pair of plots, I will describe any relationships and other analysis I find.
 
 ## Part 2 - VacationPy
-### Now I will utilizee my skills in working with weather data to plan future vacations using jupyter-gmaps and the Google Places API to search for hotels within 5000 meters and plot markers on a heatmap.
-
-####To complete this section will do the following:
+### Now I will utilizee my skills in working with weather data to plan future vacations using jupyter-gmaps and the Google Places API to search for hotels within 5000 meters and plot markers on a heatmap by doing the following:
  - Create a heat map that displays the humidity for every city from Part I
  - Narrow down the DataFrame to find your ideal weather condition
     - A max temperature lower than 80 degrees but higher than 70.
