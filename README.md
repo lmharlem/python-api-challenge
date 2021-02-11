@@ -28,31 +28,15 @@ The second requirement is to run linear regression on each relationship. This ti
  
 After each pair of plots, I will describe any relationships and other analysis I find.
 
-
-
-#### To see my Python script, check jupyter notebook here
-
-### Objectives:
-
 ## Part 2 - VacationPy
-### Now I want to use my skills in working with weather data to plan future vacations. I used jupyter-gmaps and the Google Places API  to search for hotels within 5000 meters and plot markers on a heatmap.
+### Now I will utilizee my skills in working with weather data to plan future vacations using jupyter-gmaps and the Google Places API to search for hotels within 5000 meters and plot markers on a heatmap.
 
-To complete this part of the assignment,you will need to do the following:
-
-Create a heat map that displays the humidity for every city from Part I.
-
-Narrow down the DataFrame to find your ideal weather condition. For example:
-
-A max temperature lower than 80 degrees but higher than 70.
-
-Wind speed less than 10 mph.
-
-Zero cloudiness.
-
-Drop any rows that don't contain all three conditions. You want to be sure the weather is ideal.
-
-Note: Feel free to adjust to your specifications but be sure to limit the number of rows returned by your API requests to a reasonable number.
-
-Using Google Places API to find the first hotel for each city located within 5000 meters of your coordinates.
-
-Plot the hotels on top of the humidity heatmap with each pin containing the Hotel Name, City, and Country.
+####To complete this section will do the following:
+ - Create a heat map that displays the humidity for every city from Part I
+ - Narrow down the DataFrame to find your ideal weather condition
+    - A max temperature lower than 80 degrees but higher than 70.
+    - Wind speed less than 10 mph.
+    - Zero cloudiness.
+    - Drop any rows that don't contain all three conditions. 
+ - Using Google Places API to find the first hotel for each city located within 5000 meters of your coordinates.
+ - Plot the hotels on top of the humidity heatmap with each pin containing the Hotel Name, City, and Country.
